@@ -27,7 +27,9 @@ const page = () => {
           </div>
         </div>
         {/* bottom chart */}
-        <div className="w-full h-[500px]"></div>
+        <div className="w-full h-[500px]">
+          <div className="text-lamaSkyLight"></div>
+        </div>
       </div>
       {/* right section */}
       <div className="w-full lg:w-1/3 flex flex-col gap-8"></div>
